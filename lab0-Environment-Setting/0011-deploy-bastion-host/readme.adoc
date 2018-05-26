@@ -16,7 +16,6 @@ If you have an AWS account and you’re already familiar with AWS services, you 
 :grid: none
 :valign: top
 
-[align="center", cols="3", grid="none", frame="none"]
 |=====
 |link:../../Launch-BH-withVPC.adoc[Go to Standard Index]
 |link:../../launch-BH-existingVPC.adoc[Go to Developer Index]
