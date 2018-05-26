@@ -12,10 +12,8 @@ The following links are for your convenience. Before you launch the this Step, p
 
 If you have an AWS account and you’re already familiar with AWS services, you can launch the Quick Start to build the architecture shown in Figure 1 in a new or existing Amazon VPC in your AWS account. The deployment takes approximately 5 minutes. If you’re new to AWS, please follow the step-by-step instructions provided later in this guide.
 
-|=====
-|link:../../Launch-BH-withVPC.adoc[Go to Standard Index]
-|link:../../launch-BH-existingVPC.adoc[Go to Developer Index]
-|====
+a|link:../../Launch-BH-withVPC.adoc[Go to Standard Index]
+a|link:../../launch-BH-existingVPC.adoc[Go to Developer Index]
 
 [NOTE]
 If you want to take a look under the covers, you can view the AWS CloudFormation templates that automate the deployment. The templates include default settings that you can customize by following the instructions in this guide.
