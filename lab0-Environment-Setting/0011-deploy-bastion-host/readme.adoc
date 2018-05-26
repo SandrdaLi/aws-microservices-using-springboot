@@ -15,7 +15,7 @@ If you have an AWS account and you’re already familiar with AWS services, you 
 |=====
 |link:../../Launch-BH-withVPC.adoc[Go to Standard Index]
 |link:../../launch-BH-existingVPC.adoc[Go to Developer Index]
-|===
+|====
 
 [NOTE]
 If you want to take a look under the covers, you can view the AWS CloudFormation templates that automate the deployment. The templates include default settings that you can customize by following the instructions in this guide.
